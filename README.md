@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjaramosgit&label=Profile%20views&color=0e75b6&style=flat" alt="benjaramosgit" /> </p>
 
-- 💻 Estudiante en: **[IES-LUIS-VIVES](https://www.iesluisvives.es/)**
+- 💻 Estudiante en: **[IESLuisVives](https://www.iesluisvives.es/)**
 
 - 📫 Contáctame: **benjaramossmr@gmail.com**
 
