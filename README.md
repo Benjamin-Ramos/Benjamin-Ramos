@@ -23,4 +23,4 @@ Actualmente , soy estudiante de primero en el ciclo de grado superior de DAM, en
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjaramosgit&label=Profile%20views&color=0e75b6&style=flat" alt="benjaramosgit" /> </p>
 
-<a><img src="./Images/octocat.jpg"/></a>
+<a><img src="./img/octocat.jpg"/></a>
