@@ -5,7 +5,7 @@
 
 
 <h3 align="left">Sobre Mí:</h3>
-Estoy interesado en el mundo de los videojuegos y en la programación, y estoy estudiando para descubrir más y más mundo de la informática y para conocer el desarrollo de aplicaciones multiplataforma, web y móviles.
+Actualmente , soy estudiante de primero en el ciclo de grado superior de DAM, en el centro [IESLuisVives](https://www.iesluisvives.es/) de Leganés. Estoy interesado en el mundo de los videojuegos y en la programación, y estoy estudiando para descubrir más y más mundo de la informática y para conocer el desarrollo de aplicaciones multiplataforma, web y móviles.
 
 - 💻 Estudiante en: **[IESLuisVives](https://www.iesluisvives.es/)**
 
