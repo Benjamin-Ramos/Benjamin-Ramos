@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjaramosgit&label=Profile%20views&color=0e75b6&style=flat" alt="benjaramosgit" /> </p>
 
-- 🔭 Estudiante en: **IES Luis Vives**
+- 💻 Estudiante en: **IES Luis Vives**
 
 - 📫 Contáctame: **benjaramossmr@gmail.com**
 
-- ⚡ Fun fact: **Adoro Programar.**
+- ⚡ Status: **Aprendiendo Kotlin 😄.**
 
 <h3 align="left">Redes:</h3>
 <p align="left">
