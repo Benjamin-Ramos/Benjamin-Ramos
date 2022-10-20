@@ -1,4 +1,4 @@
-<a href=""><img src="https://www.terratechperu.com/img/actualizando.gif"/></a>
+<a href=""><img src=".img/banner.gif"/></a>
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Benjamín Ramos</h1>
 <h3 align="center">Estudiante de 1º DAM en el IES Luis Vives</h3>
 
