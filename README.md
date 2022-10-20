@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Benjamín</h1>
+<h1 align="center">Hola 👋, Soy Benjamín Ramos</h1>
 <h3 align="center">Estudiante de 1º DAM en el IES Luis Vives</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjaramosgit&label=Profile%20views&color=0e75b6&style=flat" alt="benjaramosgit" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benjaramosgit" alt="benjaramosgit" /></a> </p>
 
 - 🔭 Estudiante en **IES Luis Vives**
 
