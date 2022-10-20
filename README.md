@@ -1,7 +1,7 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Benjamín Ramos</h1>
 <h3 align="center">Estudiante de 1º DAM en el IES Luis Vives</h3>
 
-<img src="https://www.terratechperu.com/img/actualizando.gif" width="100px">
+<img src="https://www.terratechperu.com/img/actualizando.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjaramosgit&label=Profile%20views&color=0e75b6&style=flat" alt="benjaramosgit" /> </p>
 
