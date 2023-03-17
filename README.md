@@ -14,11 +14,11 @@ Actualmente , soy estudiante de primero en el ciclo de grado superior de DAM, en
 - ⚡ Status: **Aprendiendo Kotlin 😄.**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Glossary/Java" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
+<p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Glossary/Java" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a> </,p>
 
 <h3 align="left">Redes:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/benja-ramos-366137252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benja ramos" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=benjaramosgit&label=Profile%20views&color=0e75b6&style=flat" alt="benjaramosgit" /> </p>
+<p align="left"> <a href="https://github.com/Benjamin-Ramos" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=benjaramosgit&label=Profile%20views&color=0e75b6&style=flat" alt="benjaramosgit"  </a> </p>
